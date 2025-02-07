@@ -1,1 +1,1 @@
-print("Wassup Manoj! 12:34")
+print"Wassup Manoj! 12:34")
